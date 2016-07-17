@@ -1,4 +1,4 @@
-var dirWebRoot = 'dist';
+var dirWebRoot = 'public';
 var port = Number(process.env.PORT || 5000);
 
 var connect = require('connect');
