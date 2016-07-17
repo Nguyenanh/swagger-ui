@@ -1,0 +1,14 @@
+{
+  "name": "swagger-ui-cline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "connect": "2.19.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
